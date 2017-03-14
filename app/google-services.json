@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "558151010578",
+    "firebase_url": "https://taste-of-indore.firebaseio.com",
+    "project_id": "taste-of-indore",
+    "storage_bucket": "taste-of-indore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558151010578:android:49fc631f5c855ffc",
+        "android_client_info": {
+          "package_name": "com.samyotech.testofindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558151010578-0daup96ea4ickplnf3b1892su94ecifr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samyotech.testofindia",
+            "certificate_hash": "F028D9DF1AD5811FE8923C15D25CE8E3D759854A"
+          }
+        },
+        {
+          "client_id": "558151010578-j139kllvtsm7aghmr1aun0pbjj04dodi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr3pjOpwzZM8kDvQ5Je_13zPcKzT6EV10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558151010578-j139kllvtsm7aghmr1aun0pbjj04dodi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

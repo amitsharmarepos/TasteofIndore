@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">Taste Of Indore</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_photos">My Favourites</string>
+    <string name="nav_movies">Rate Us</string>
+    <string name="nav_notifications">Share</string>
+    <string name="nav_settings">Feedback</string>
+    <string name="nav_about_us">About Us</string>
+    <string name="nav_moreapp">More Apps</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>My Favourites</item>
+        <item>Rate Us</item>
+        <item>Share</item>
+        <item>Feedback</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about1">SamyoTech is an Indore based IT Solutions Company with high expertise in the Mobile App and Web Domain. We offer dynamic approaches for all Business needs with innovative IT based solutions to turn ordinary into extraordinary.</string>
+    <string name="websitelink">www.samyotech.com<a href="http://samyotech.com/"></a></string>
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <string name="banner_ad_unit_id">ca-app-pub-8782135555820344/2753442317</string>
+    <string name="ad_unit_id">ca-app-pub-8782135555820344/5241819910</string>
+
+</resources>
